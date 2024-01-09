@@ -4,5 +4,5 @@ This project focuses on the analysis of the Toulouse Inquisition Register descri
 
 ## Jupyter notebook scripts
 
-Scripts will be uploaded shortly.
+There are original versions of scripts in the "backup" directory.
 
