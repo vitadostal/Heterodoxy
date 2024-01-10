@@ -5,4 +5,7 @@ This project focuses on the analysis of the Toulouse Inquisition Register descri
 ## Jupyter notebook scripts
 
 There are original versions of scripts in the "backup" directory.
+There are newer versions of scripts in the "script" directory.
 
+- 1-ParsePDF: Parsing PDF into TXT files
+- 2-CorpusProperties: Counting basic corpus characteristics
