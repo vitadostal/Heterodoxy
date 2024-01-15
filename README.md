@@ -4,8 +4,9 @@ This project focuses on the analysis of the Toulouse Inquisition Register descri
 
 ## Jupyter notebook scripts
 
-There are original versions of scripts in the "backup" directory.
-There are newer versions of scripts in the "script" directory.
+There are original versions of scripts (used by the thesis) in the "backup" directory.  
+There are newer versions of scripts in the "scripts" directory.
 
-- 1-ParsePDF: Parsing PDF into TXT files
-- 2-CorpusProperties: Counting basic corpus characteristics
+- 1-ParsePDF.ipynb: Parsing PDF into TXT files
+- 2-CorpusProperties.ipynb: Counting basic corpus characteristics
+- 3-VerbsDistribution.ipynb: Show most common verbs and visualize pattern distribution
